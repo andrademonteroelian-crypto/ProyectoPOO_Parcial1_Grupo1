@@ -41,4 +41,27 @@ Video explicativo
 
 [Enlace a YouTube o Drive con permisos de visualización]
 
+### Diagrama de clases
+ServicioBiblioteca (superclase)
+├── PrestamoLibro (hija) → multa por días de atraso
+└── PrestamoDigital (hija) → costo por tipo de recurso
+UsuarioBiblioteca (adicional)
+GestorBiblioteca (adicional) → 2 métodos polimórficos
 plain
+Copy
+
+**Herencia:** Las hijas heredan de `ServicioBiblioteca` con `super()`.
+
+**Polimorfismo:** `GestorBiblioteca` recorre la lista de servicios y ejecuta métodos comunes sin saber el tipo.
+2. Guardar y subir a GitHub
+bash
+Copy
+git add README.md
+git commit -m "Agregado diagrama de clases"
+git push origin main
+3. Listo
+Eso es todo. El profesor lo revisará para verificar que cumples:
+✅ 1 superclase
+✅ 2 clases hijas
+✅ 2 clases adicionales
+✅ Polimorfismo en GestorBiblioteca
