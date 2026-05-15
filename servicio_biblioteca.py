@@ -1,7 +1,9 @@
 # Integrantes:
-# - [Apellido Nombre]
-# - [Apellido Nombre]
-# - [Apellido Nombre]
+# - Juan Carlos
+# - Jennifer Mazzini
+# - Lisseth Zambrano
+# - Elian Andrade
+# - Nathaly Nacipucha
 
 class ServicioBiblioteca:
     def __init__(self, codigo: str, titulo_recurso: str, fecha_prestamo: str, dias_prestamo: int):
