@@ -4,6 +4,7 @@
 # - Lisseth Zambrano
 # - Elian Andrade
 # - Nathaly Nacipucha
+# - Eylen Flores
 
 from usuario_biblioteca import UsuarioBiblioteca
 from gestor_biblioteca import GestorBiblioteca
