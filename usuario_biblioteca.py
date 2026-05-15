@@ -4,7 +4,7 @@
 # - Lisseth Zambrano
 # - Elian Andrade
 # - Nathaly Nacipucha
-
+# - Eylen Flores
 class UsuarioBiblioteca:
     def __init__(self, nombre: str, id_usuario: str, email: str):
         self._nombre = nombre
