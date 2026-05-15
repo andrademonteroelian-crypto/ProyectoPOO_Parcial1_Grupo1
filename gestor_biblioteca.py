@@ -2,6 +2,8 @@
 # - [Apellido Nombre]
 # - [Apellido Nombre]
 # - [Apellido Nombre]
+# - [Apellido Nombre]
+# - [Apellido Nombre]
 
 class GestorBiblioteca:
     def __init__(self, nombre_biblioteca: str):
