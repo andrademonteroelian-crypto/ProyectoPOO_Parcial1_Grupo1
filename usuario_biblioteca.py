@@ -1,7 +1,9 @@
 # Integrantes:
-# - [Apellido Nombre]
-# - [Apellido Nombre]
-# - [Apellido Nombre]
+# - Juan Carlos
+# - Jennifer Mazzini
+# - Lisseth Zambrano
+# - Elian Andrade
+# - Nathaly Nacipucha
 
 class UsuarioBiblioteca:
     def __init__(self, nombre: str, id_usuario: str, email: str):
