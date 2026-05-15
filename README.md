@@ -6,12 +6,13 @@ CodePreview
 
 ### Integrantes
 
-- [Nombre Apellido]
-
-- [Nombre Apellido]
-
-- [Nombre Apellido]
-
+- Juan Carlos
+- Jennifer Mazzini
+- Lisseth Zambrano
+- Elian Andrade
+- Nathaly Nacipucha
+- Eylen Flores
+  
 ### Descripción
 
 Sistema que gestiona préstamos de biblioteca aplicando encapsulamiento,
