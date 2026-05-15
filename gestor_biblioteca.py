@@ -4,6 +4,7 @@
 # - Lisseth Zambrano
 # - Elian Andrade
 # - Nathaly Nacipucha
+# - Eylen Flores
 
 class GestorBiblioteca:
     def __init__(self, nombre_biblioteca: str):
