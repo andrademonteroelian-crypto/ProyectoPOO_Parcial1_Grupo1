@@ -4,6 +4,7 @@
 # - Lisseth Zambrano
 # - Elian Andrade
 # - Nathaly Nacipucha
+# - Eylen Flores
 
 class ServicioBiblioteca:
     def __init__(self, codigo: str, titulo_recurso: str, fecha_prestamo: str, dias_prestamo: int):
