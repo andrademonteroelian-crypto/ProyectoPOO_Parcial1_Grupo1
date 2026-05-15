@@ -54,14 +54,8 @@ Copy
 
 **Polimorfismo:** `GestorBiblioteca` recorre la lista de servicios y ejecuta métodos comunes sin saber el tipo.
 2. Guardar y subir a GitHub
-bash
-Copy
+
+
 git add README.md
 git commit -m "Agregado diagrama de clases"
 git push origin main
-3. Listo
-Eso es todo. El profesor lo revisará para verificar que cumples:
-✅ 1 superclase
-✅ 2 clases hijas
-✅ 2 clases adicionales
-✅ Polimorfismo en GestorBiblioteca
