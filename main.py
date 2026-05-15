@@ -1,7 +1,9 @@
 # Integrantes:
-# - [Apellido Nombre]
-# - [Apellido Nombre]
-# - [Apellido Nombre]
+# - Juan Carlos
+# - Jennifer Mazzini
+# - Lisseth Zambrano
+# - Elian Andrade
+# - Nathaly Nacipucha
 
 from usuario_biblioteca import UsuarioBiblioteca
 from gestor_biblioteca import GestorBiblioteca
