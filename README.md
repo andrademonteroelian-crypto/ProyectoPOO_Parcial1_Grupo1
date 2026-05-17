@@ -53,9 +53,3 @@ Copy
 **Herencia:** Las hijas heredan de `ServicioBiblioteca` con `super()`.
 
 **Polimorfismo:** `GestorBiblioteca` recorre la lista de servicios y ejecuta métodos comunes sin saber el tipo.
-2. Guardar y subir a GitHub
-
-
-git add README.md
-git commit -m "Agregado diagrama de clases"
-git push origin main
