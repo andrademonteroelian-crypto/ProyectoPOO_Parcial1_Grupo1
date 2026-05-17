@@ -35,11 +35,11 @@ Copy
 
 Evidencias
 
-[Capturas de pantalla aquí]
+https://drive.google.com/drive/folders/129nTuM90cUPfoJMzvF-g-r0qEMDgrX9s
 
 Video explicativo
 
-[Enlace a YouTube o Drive con permisos de visualización]
+https://drive.google.com/file/d/1a52qcUJk3kI-cxqoW-oflUz6mPtsMJD_/view?usp=drivesdk
 
 ### Diagrama de clases
 ServicioBiblioteca (superclase)
